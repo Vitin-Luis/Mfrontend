@@ -7,7 +7,7 @@ import ParallaxScrollView from '@/components/ParallaxScrollView';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 
-export default function Explore() {
+export default function TabTwoScreen() {
   return (
     <h1>Ola</h1>
   );
